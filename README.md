@@ -130,8 +130,3 @@ npm run dev
 
 ---
 
-## 👩‍💻 Author
-**Thilini Wasana**  
-*Software Engineering Undergraduate — National Institute of Business Management (NIBM)*  
-- LinkedIn: [thilini-wasana](https://www.linkedin.com/in/thilini-wasana-166117360)  
-- Email: thiliniwasana1010@gmail.com
